@@ -1,5 +1,5 @@
 <?php
 
-	echo "Nuevo Hola mundo con mas cambios 5";
+	echo "Nuevo Hola mundo con mas cambios 6";
 
 ?>
