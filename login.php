@@ -1,5 +1,5 @@
 <?php
 
-	echo "Esto es login 1";
+	echo "Esto es login 2";
 
 ?>
